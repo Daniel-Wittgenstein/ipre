@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.2.3"
+  },
+  "dependencies": {
+    "inklecate": "^1.8.1"
   }
 }
